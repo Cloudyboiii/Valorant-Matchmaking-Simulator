@@ -1,0 +1,94 @@
+{
+  "timestamp": "2024-12-02T17:41:10.792096",
+  "mode": "competitive",
+  "region": "north_america",
+  "match_quality": 0.5416338792896626,
+  "teams": {
+    "team_1": {
+      "average_skill": 2937.51801032612,
+      "skill_variance": 225796.26268174918,
+      "average_latency": 49.57145111631818,
+      "predicted_win_rate": 1.0,
+      "players": [
+        {
+          "id": 5,
+          "name": "SharpBlade",
+          "rank": "GOLD_2",
+          "skill_rating": 2892.3052150996964,
+          "win_rate": 0.7105099791616196
+        },
+        {
+          "id": 7,
+          "name": "SwiftEagle",
+          "rank": "GOLD_3",
+          "skill_rating": 3167.1017005568465,
+          "win_rate": 0.6729749095563088
+        },
+        {
+          "id": 3,
+          "name": "SwiftHawk",
+          "rank": "GOLD_1",
+          "skill_rating": 2528.9193099622003,
+          "win_rate": 0.45068605661396044
+        },
+        {
+          "id": 4,
+          "name": "SilentFire",
+          "rank": "SILVER_3",
+          "skill_rating": 2385.5022218125137,
+          "win_rate": 0.4225675683695781
+        },
+        {
+          "id": 2,
+          "name": "FierceFire",
+          "rank": "PLATINUM_2",
+          "skill_rating": 3713.7616041993438,
+          "win_rate": 0.9
+        }
+      ]
+    },
+    "team_2": {
+      "average_skill": 2461.4475100934005,
+      "skill_variance": 117753.99984980398,
+      "average_latency": 62.491698811540914,
+      "predicted_win_rate": 0.9999999999997025,
+      "players": [
+        {
+          "id": 9,
+          "name": "CunningEagle",
+          "rank": "GOLD_2",
+          "skill_rating": 2890.793129278734,
+          "win_rate": 0.5735981820100547
+        },
+        {
+          "id": 6,
+          "name": "SwiftShadow",
+          "rank": "GOLD_1",
+          "skill_rating": 2672.8094954968324,
+          "win_rate": 0.6397611884547578
+        },
+        {
+          "id": 1,
+          "name": "SkilledShadow",
+          "rank": "GOLD_1",
+          "skill_rating": 2518.137459436105,
+          "win_rate": 0.563915227405809
+        },
+        {
+          "id": 0,
+          "name": "SharpArrow",
+          "rank": "SILVER_3",
+          "skill_rating": 2350.82752805744,
+          "win_rate": 0.4836599172481538
+        },
+        {
+          "id": 8,
+          "name": "SilentEagle",
+          "rank": "SILVER_1",
+          "skill_rating": 1874.669938197893,
+          "win_rate": 0.21093894577342343
+        }
+      ]
+    }
+  }
+}

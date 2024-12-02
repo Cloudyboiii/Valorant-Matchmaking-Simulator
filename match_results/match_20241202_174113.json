@@ -1,0 +1,94 @@
+{
+  "timestamp": "2024-12-02T17:41:13.237537",
+  "mode": "competitive",
+  "region": "north_america",
+  "match_quality": 0.48565498015855146,
+  "teams": {
+    "team_1": {
+      "average_skill": 2381.465986172498,
+      "skill_variance": 179208.26238549603,
+      "average_latency": 48.03688438696551,
+      "predicted_win_rate": 0.9999999999967226,
+      "players": [
+        {
+          "id": 6,
+          "name": "FierceFire",
+          "rank": "GOLD_2",
+          "skill_rating": 2943.9378516493484,
+          "win_rate": 0.5650388470978465
+        },
+        {
+          "id": 3,
+          "name": "SharpEagle",
+          "rank": "GOLD_1",
+          "skill_rating": 2655.5257820670004,
+          "win_rate": 0.522871861057328
+        },
+        {
+          "id": 0,
+          "name": "BraveArrow",
+          "rank": "SILVER_3",
+          "skill_rating": 2375.7852889629926,
+          "win_rate": 0.5442975643335649
+        },
+        {
+          "id": 4,
+          "name": "SharpEagle",
+          "rank": "SILVER_2",
+          "skill_rating": 2248.3249422949716,
+          "win_rate": 0.46626530326592525
+        },
+        {
+          "id": 2,
+          "name": "CunningBlade",
+          "rank": "BRONZE_3",
+          "skill_rating": 1683.756065888178,
+          "win_rate": 0.2404059678661938
+        }
+      ]
+    },
+    "team_2": {
+      "average_skill": 2498.504471469617,
+      "skill_variance": 400563.03688526613,
+      "average_latency": 60.89040219090172,
+      "predicted_win_rate": 0.9999999999999021,
+      "players": [
+        {
+          "id": 5,
+          "name": "FierceBlade",
+          "rank": "GOLD_2",
+          "skill_rating": 2787.604145158558,
+          "win_rate": 0.5073922536451475
+        },
+        {
+          "id": 7,
+          "name": "SharpStorm",
+          "rank": "GOLD_1",
+          "skill_rating": 2598.54284265733,
+          "win_rate": 0.5356071090872131
+        },
+        {
+          "id": 9,
+          "name": "BraveArrow",
+          "rank": "SILVER_3",
+          "skill_rating": 2306.886340021406,
+          "win_rate": 0.439216876418439
+        },
+        {
+          "id": 8,
+          "name": "BraveFire",
+          "rank": "PLATINUM_1",
+          "skill_rating": 3362.294337099491,
+          "win_rate": 0.7120942798288773
+        },
+        {
+          "id": 1,
+          "name": "SharpStorm",
+          "rank": "BRONZE_2",
+          "skill_rating": 1437.1946924113024,
+          "win_rate": 0.11191049961341283
+        }
+      ]
+    }
+  }
+}
