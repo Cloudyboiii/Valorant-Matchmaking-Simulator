@@ -11,7 +11,7 @@ Welcome to the **Valorant Matchmaking Simulator**, your ultimate companion for u
 - **Intuitive UI:** Designed with gamers in mind, our sleek and user-friendly interface makes it easy for anyone to jump in and start simulating matches.
 - **Dynamic Rank Simulation:** Experiment with various player ranks and compositions to see how they affect match outcomes. Will a team of Golds triumph over a squad of Silvers? Find out!
 - **Data Visualization:** Gain insights through interactive charts and graphs that illustrate matchmaking statistics, giving you the edge in understanding player dynamics.
-- **Customizable Settings:** Tailor your simulation experience by adjusting parameters like player ranks, team size, and more!
+- **Customizable Settings:** Tailor your simulation experience by adjusting parameters like select game type, select region, and more!
 
 ## 🎮 Live Demo
 
@@ -30,4 +30,7 @@ Ready to take your matchmaking skills to the next level? Here’s how to set up 
 
 ```bash
 git clone https://github.com/Cloudyboiii/Valorant-Matchmaking-Simulator.git
-cd Valorant-Matchmaking-Simulator
+cd Valorant-Matchmaking-Simulator'
+
+Install Dependencies
+Make sure you have all the necessary libraries to run the simulator:
