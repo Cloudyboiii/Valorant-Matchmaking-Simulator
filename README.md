@@ -21,7 +21,7 @@ Want to see it in action? Check out the live version of the Valorant Matchmaking
 
 Ready to take your matchmaking skills to the next level? Here’s how to set up the simulator on your own machine:
 
-### Prerequisites
+## Prerequisites
 
 - Python 3.6 or higher
 - pip (Python package installer)
