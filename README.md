@@ -26,21 +26,21 @@ Ready to take your matchmaking skills to the next level? Here’s how to set up 
 - Python 3.6 or higher
 - pip (Python package installer)
 
-### Clone the Repository
+## Clone the Repository
 
 ```bash
 git clone https://github.com/Cloudyboiii/Valorant-Matchmaking-Simulator.git
 cd Valorant-Matchmaking-Simulator
 ```
 
-### Install Dependencies
+## Install Dependencies
 Make sure you have all the necessary libraries to run the simulator:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Run the Application
+## Run the Application
 Launch the simulator and get ready to strategize:
 
 ```bash
@@ -49,10 +49,10 @@ streamlit run app.py
 
 Once it's running, head over to http://localhost:8501 in your favorite browser, and let the matchmaking madness begin!
 
-### 🙌 Acknowledgments
+## 🙌 Acknowledgments
 Huge shoutout to the Valorant community for your passion and support!
 Special thanks to the Streamlit team for creating an incredible platform that makes building web apps a breeze.
 
-### 📬 Contact
+## 📬 Contact
 Got questions, suggestions, or just want to chat about Valorant? Reach out to me at badal.gupta0408@gmail.com. Let’s strategize together!
 
